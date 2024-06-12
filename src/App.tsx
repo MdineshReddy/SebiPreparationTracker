@@ -1,4 +1,3 @@
-import React from "react";
 import Tracker from "./Tracker";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 
