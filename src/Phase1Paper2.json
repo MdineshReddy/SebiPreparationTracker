@@ -1,0 +1,273 @@
+{
+  "title": "Phase 1 Paper 2",
+  "pattern": "Total 5 Questions. Total Marks: 100 marks. Total Time: 40 minutes. Cutoff: 40%",
+  "topics": [
+    {
+      "title": "Database Concepts",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "ER-model"
+        },
+        {
+          "title": "Relational model"
+        },
+        {
+          "title": "Relational algebra"
+        },
+        {
+          "title": "Tuple calculus"
+        },
+        {
+          "title": "Integrity constraints"
+        },
+        {
+          "title": "Normal forms"
+        },
+        {
+          "title": "File organisation"
+        },
+        {
+          "title": "Indexing (e.g., B and B+ trees)"
+        },
+        {
+          "title": "Transactions and concurrency control"
+        }
+      ]
+    },
+    {
+      "title": "SQL Queries",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "Select, View, Truncate, Delete, Update, Alter"
+        },
+        {
+          "title": "Inner join and different types of outer joins"
+        },
+        {
+          "title": "Use of Aggregate Functions"
+        },
+        {
+          "title": "Union, Intersection, Except, "
+        },
+        {
+          "title": "In and Exist clauses"
+        },
+        {
+          "title": "nested queries"
+        }
+      ]
+    },
+    {
+      "title": "Programming Concepts (Java /C C++)",
+      "weightage": 30,
+      "subtopics": [
+        {
+          "title": "Program control (iteration, recursion, Functions)"
+        },
+        {
+          "title": "Scope of variables"
+        },
+        {
+          "title": "Binding of variables & functions"
+        },
+        {
+          "title": "Parameter passing"
+        },
+        {
+          "title": "Functional and Logic Programming"
+        },
+        {
+          "title": "OOPS Concepts"
+        },
+        {
+          "title": "Inheritance"
+        },
+        {
+          "title": "Class and object"
+        },
+        {
+          "title": "Constructors"
+        },
+        {
+          "title": "Functions"
+        },
+        {
+          "title": "Exception Handling"
+        }
+      ]
+    },
+    {
+      "title": "Data Analytics Languages (Python / R)",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "Regex"
+        },
+        {
+          "title": "Slicing"
+        },
+        {
+          "title": "Data reshaping"
+        },
+        {
+          "title": "Dataframes"
+        },
+        {
+          "title": "Dictionaries and Sets"
+        },
+        {
+          "title": "File Management"
+        },
+        {
+          "title": "Classes and Functions"
+        },
+        {
+          "title": "Data Mining"
+        },
+        {
+          "title": "Lists"
+        },
+        {
+          "title": "Importing and exporting data"
+        },
+        {
+          "title": "Charts and Graphs"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms for problem solving",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "Tree and graph traversals"
+        },
+        {
+          "title": "Connected components"
+        },
+        {
+          "title": "Spanning trees"
+        },
+        {
+          "title": "Shortest paths"
+        },
+        {
+          "title": "Hashing"
+        },
+        {
+          "title": "Sorting"
+        },
+        {
+          "title": "Searching"
+        },
+        {
+          "title": "Design techniques (Greedy, Dynamic Programming, Divide-and-conquer)"
+        }
+      ]
+    },
+    {
+      "title": "Networking Concepts",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "ISO/OSI stack"
+        },
+        {
+          "title": "LAN Technologies (Ethernet, Token Ring)"
+        },
+        {
+          "title": "TCP/UDP, IP"
+        },
+        {
+          "title": "Basic concepts of switches, gateways, and routers"
+        },
+        {
+          "title": "Application layer protocols (DNS, SMTP, POP, FTP, HTTP)"
+        },
+        {
+          "title": "Firewalls"
+        }
+      ]
+    },
+    {
+      "title": "Information & Cyber Security Concepts",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "Cyber Attacks"
+        },
+        {
+          "title": "Software Development Security"
+        },
+        {
+          "title": "Network security"
+        },
+        {
+          "title": "Authentication"
+        },
+        {
+          "title": "CIA - Confidentiality, Integrity and Availability"
+        },
+        {
+          "title": "Network Audit"
+        },
+        {
+          "title": "Systems Audit"
+        }
+      ]
+    },
+    {
+      "title": "Data warehousing",
+      "weightage": 5,
+      "subtopics": [
+        {
+          "title": "Data Extraction"
+        },
+        {
+          "title": "Data Cleaning"
+        },
+        {
+          "title": "Data Transformation"
+        },
+        {
+          "title": "Data Loading"
+        },
+        {
+          "title": "Metadata"
+        },
+        {
+          "title": "Data Cube"
+        },
+        {
+          "title": "Data Mart"
+        },
+        {
+          "title": "Data Models"
+        }
+      ]
+    },
+    {
+      "title": "Shell Programming",
+      "weightage": 5,
+      "subtopics": [
+        {
+          "title": "Shell Scripting Basics"
+        },
+        {
+          "title": "Shell Variables"
+        },
+        {
+          "title": "Shell Script Arguments"
+        },
+        {
+          "title": "If Statement, Loop, Return"
+        },
+        {
+          "title": "Basic UNIX commands"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Phase 2 Paper 2",
+  "pattern": "Total 100 marks. Time: 3 hours 30 minutes (30 minutes without typing + 180 minutes coding test duration). 40% cutoff. Languages allowed: C++/JAVA/Python",
+  "topics": [
+    {
+      "title": "Algorithms",
+      "weightage": 30,
+      "subtopics": [
+        {
+          "title": "Sorting"
+        },
+        {
+          "title": "Searching"
+        },
+        {
+          "title": "Greedy Algorithms"
+        },
+        {
+          "title": "Dynamic Programming"
+        },
+        {
+          "title": "Backtracking"
+        },
+        {
+          "title": "Divide and Conquer"
+        },
+        {
+          "title": "Pattern Searching"
+        }
+      ]
+    },
+    {
+      "title": "Data Structure",
+      "weightage": 40,
+      "subtopics": [
+        {
+          "title": "Array"
+        },
+        {
+          "title": "Linked List"
+        },
+        {
+          "title": "Stack"
+        },
+        {
+          "title": "Queue"
+        },
+        {
+          "title": "Binary Tree"
+        },
+        {
+          "title": "Indexing"
+        },
+        {
+          "title": "Binary Search Tree"
+        },
+        {
+          "title": "Heap"
+        },
+        {
+          "title": "Hashing"
+        },
+        {
+          "title": "Matrix"
+        },
+        {
+          "title": "JSON Objects"
+        }
+      ]
+    },
+    {
+      "title": "String Manipulation",
+      "weightage": 10,
+      "subtopics": [
+        {
+          "title": "Length"
+        },
+        {
+          "title": "Substring"
+        },
+        {
+          "title": "Regex"
+        },
+        {
+          "title": "Search"
+        }
+      ]
+    },
+    {
+        "title": "Object Oriented Programming",
+        "weightage": 20,
+        "subtopics": [
+          {
+            "title": "Abstraction"
+          },
+          {
+            "title": "Encapsulation"
+          },
+          {
+            "title": "Polymorphism"
+          },
+          {
+            "title": "Inheritance"
+          }
+        ]
+      }
+  ]
+}

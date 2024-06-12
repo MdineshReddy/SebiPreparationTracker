@@ -1,0 +1,193 @@
+{
+    "title": "Phase 1 Paper 1",
+    "pattern": "Total 80 Questions. 20 each from following topics. Total Marks: 100 marks. Total Time: 1 hour. Cutoff: 30%",
+    "topics": [
+        {
+          "title": "Quantitative Aptitude",
+          "subtopics": [
+            {
+              "title": "Simplification and approximation"
+            },
+            {
+              "title": "Number Series"
+            },
+            {
+              "title": "Quadratic Equation"
+            },
+            {
+              "title": "Number System / HCF & LCM"
+            },
+            {
+              "title": "Ratio and Proportion"
+            },
+            {
+              "title": "Average"
+            },
+            {
+              "title": "Partnership"
+            },
+            {
+              "title": "Ages"
+            },
+            {
+              "title": "Percentage"
+            },
+            {
+              "title": "Profit & Loss"
+            },
+            {
+              "title": "Time"
+            },
+            {
+              "title": "Speed & Distance"
+            },
+            {
+              "title": "Problems on Trains"
+            },
+            {
+              "title": "Boat and Stream"
+            },
+            {
+              "title": "Time & Work / Pipes and Cisterns"
+            },
+            {
+              "title": "Simple and Compound Interest"
+            },
+            {
+              "title": "Mixture & Allegations"
+            },
+            {
+              "title": "Permutation and Combination"
+            },
+            {
+              "title": "Probability"
+            },
+            {
+              "title": "Data Interpretation (DI)"
+            },
+            {
+              "title": "Caselet DI"
+            },
+            {
+              "title": "Data Sufficiency"
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subtopics": [
+            {
+              "title": "Grammar"
+            },
+            {
+              "title": "Vocabulary"
+            },
+            {
+              "title": "Reading Comprehension"
+            },
+            {
+              "title": "Passage Making"
+            },
+            {
+              "title": "Error Spotting"
+            },
+            {
+              "title": "Jumble Words"
+            },
+            {
+              "title": "Sentence Framing"
+            },
+            {
+              "title": "Fill in the blanks"
+            }
+          ]
+        },
+        {
+          "title": "General Awareness",
+          "subtopics": [
+            {
+              "title": "Monetary Policies"
+            },
+            {
+              "title": "Banking and Financial Awareness"
+            },
+            {
+              "title": "Economic Terms"
+            },
+            {
+              "title": "Current Affairs"
+            },
+            {
+              "title": "Static GK"
+            },
+            {
+              "title": "Financial and Economic News"
+            },
+            {
+              "title": "Government Schemes"
+            },
+            {
+              "title": "Agreement & Deals"
+            },
+            {
+              "title": "Banking Terms- rates & processes"
+            },
+            {
+              "title": "National Institutions"
+            }
+          ]
+        },
+        {
+          "title": "Reasoning",
+          "subtopics": [
+            {
+              "title": "Puzzles"
+            },
+            {
+              "title": "Seating Arrangement- Circular, Square & Linear"
+            },
+            {
+              "title": "Data Sufficiency"
+            },
+            {
+              "title": "Directions and Distance"
+            },
+            {
+              "title": "Coding Decoding"
+            },
+            {
+              "title": "Blood relations"
+            },
+            {
+              "title": "Inequality"
+            },
+            {
+              "title": "Syllogism"
+            },
+            {
+              "title": "Machine input and output"
+            },
+            {
+              "title": "Verbal Reasoning"
+            },
+            {
+              "title": "Ordering and Ranking"
+            },
+            {
+              "title": "Arrangement and Pattern"
+            },
+            {
+              "title": "Scheduling"
+            },
+            {
+              "title": "Distance and Direction"
+            },
+            {
+              "title": "Ranking"
+            } 
+             
+          ]
+        }
+      ]
+      
+}
